@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/point_cloud_editor" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
